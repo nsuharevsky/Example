@@ -1,0 +1,4 @@
+#Fri Nov 02 10:31:01 EET 2018
+base.0=/Users/nats/myprojects/accommodationtestlightit/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

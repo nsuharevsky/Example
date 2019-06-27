@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTTouchHandler.m \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTTouchHandler.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTTouchEvent.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/nats/myprojects/accommodationtestlightit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/nats/myprojects/accommodationtestlightit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/nats/myprojects/accommodationtestlightit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/RCTComponent.h

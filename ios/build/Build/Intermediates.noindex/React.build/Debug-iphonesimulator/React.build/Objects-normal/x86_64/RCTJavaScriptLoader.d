@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/nats/myprojects/accommodationtestlightit/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/nats/myprojects/accommodationtestlightit/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/nats/myprojects/accommodationtestlightit/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/nats/myprojects/accommodationtestlightit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/nats/myprojects/accommodationtestlightit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/nats/myprojects/accommodationtestlightit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/nats/myprojects/accommodationtestlightit/node_modules/react-native/React/Base/RCTPerformanceLogger.h

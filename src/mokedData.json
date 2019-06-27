@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "date_time": "2018-08-28T09:00:00.000Z",
+    "type": "rent_item",
+    "content_object": {
+      "category": "viewing",
+      "status" : 1,
+      "apartment": {
+        "images": [
+          "link to image 1",
+          "link to image 2",
+          "link to image 3"
+        ],
+        "apartment_description": "Double Bedroom",
+        "price": 1250,
+        "price_description": "pmc inc. bills",
+        "price_currency": "£",
+        "address" : "58 West Parade, London",
+        "appartment_options": [
+          "2 beds",
+          "1 bathroom",
+          "53 Wks Contract"
+        ],
+        "landlord": {
+          "id": 123,
+          "avatar": "link to avatar"
+        },
+        "customers": [
+          {
+            "id": 124,
+            "avatar": "link to avatar"
+          },
+          {
+            "id": 125,
+            "avatar": "link to avatar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "date_time": "2018-09-02T12:00:00.000Z",
+    "type": "feedback",
+    "content_object": {
+      "user": {
+        "id": 126,
+        "avatar": "link to avatar",
+        "position": "Plumber"
+      },
+      "issue": {
+        "text": "Resolved the maintenance issue.",
+        "status": 1
+      }
+    }
+  },
+  {
+    "id": 3,
+    "date_time": "2018-11-02T09:00:00.000Z",
+    "type": "profile",
+    "content_object": {
+      "title": "Your renter profile is 25% complete",
+      "description": "There are 13.9 million renters in the UK. Stand out from the crowd by building your rental profile today.",
+      "profile_complete": 0.25
+    }
+  },
+  {
+    "id": 4,
+    "date_time": "2018-11-03T12:00:00.000Z",
+    "type": "payment",
+    "content_object": {
+      "title": "Payment",
+      "content" : "Rent Payment Due",
+      "price": 1250,
+      "price_currency": "£"
+    }
+  },
+  {
+    "id": 5,
+    "date_time": "2018-11-05T09:00:00.000Z",
+    "type": "rent_item",
+    "content_object": {
+      "category": "check-in",
+      "status" : null,
+      "apartment": {
+        "images": [
+          "link to image 1",
+          "link to image 2",
+          "link to image 3"
+        ],
+        "apartment_description": "Double Bedroom",
+        "price": 1250,
+        "price_description": "pmc inc. bills",
+        "price_currency": "£",
+        "address" : "58 West Parade, London",
+        "appartment_options": [
+          "2 beds",
+          "1 bathroom",
+          "53 Wks Contract"
+        ],
+        "landlord": {
+          "id": 123,
+          "avatar": "link to avatar"
+        },
+        "customers": [
+          {
+            "id": 124,
+            "avatar": "link to avatar"
+          },
+          {
+            "id": 125,
+            "avatar": "link to avatar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 6,
+    "date_time": "2018-11-17T09:00:00.000Z",
+    "type": "house_inspection",
+    "content_object": {
+      "title": "House Inspection",
+      "content": "58 West Parade, London",
+      "landlord": {
+        "id": 123
+      }
+    }
+  },
+  {
+    "id": 7,
+    "date_time": "2018-11-17T12:00:00.000Z",
+    "type": "manager_catch_up",
+    "content_object": {
+      "title": "Manager Catch up"
+    }
+  },
+  {
+    "id": 8,
+    "date_time": "2018-12-10T12:00:00.000Z",
+    "type": "feedback",
+    "content_object": {
+      "user": {
+        "id": 126,
+        "avatar": "link to avatar",
+        "position": "Plumber"
+      },
+      "issue": {
+        "text": "Resolved the maintenance issue.",
+        "status": 1
+      }
+    }
+  },
+  {
+    "id": 9,
+    "date_time": "2019-06-01T12:00:00.000Z",
+    "type": "reminder",
+    "content_object": {
+      "title": "Your contract ends in 3 months."
+    }
+  },
+  {
+    "id": 10,
+    "date_time": "2019-09-05T09:00:00.000Z",
+    "type": "rent_item",
+    "content_object": {
+      "category": "check-out",
+      "status" : 1,
+      "apartment": {
+        "images": [
+          "link to image 1",
+          "link to image 2",
+          "link to image 3"
+        ],
+        "apartment_description": "Double Bedroom",
+        "price": 1250,
+        "price_description": "pmc inc. bills",
+        "price_currency": "£",
+        "address" : "58 West Parade, London",
+        "appartment_options": [
+          "2 beds",
+          "1 bathroom",
+          "53 Wks Contract"
+        ],
+        "landlord": {
+          "id": 123,
+          "avatar": "link to avatar"
+        },
+        "customers": [
+          {
+            "id": 124,
+            "avatar": "link to avatar"
+          },
+          {
+            "id": 125,
+            "avatar": "link to avatar"
+          }
+        ]
+      }
+    }
+  }
+]
